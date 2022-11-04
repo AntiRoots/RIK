@@ -15,8 +15,13 @@ namespace scraper
 
         static void Main(string[] args)
         {
-
-            GetHtml();
+            var timer = new System.Threading.Timer(
+                e => GetHtml(),  
+                null, 
+                TimeSpan.Zero, 
+                TimeSpan.FromHours(2));
+            
+           
             Console.ReadLine();
         }
            
