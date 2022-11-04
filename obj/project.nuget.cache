@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EgyhriBKlgHm83Bc1PlmiexWGXjR0Tas1EFyZNEK7RElUHh9MvoyL2EHvwS4O1nev4Ycu5rvyHuK9fswUpOXUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aroots\\Documents\\web_scraper\\web_scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aroots\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\aroots\Documents\web_scraper\bin\Debug\net6.0\web_scraper.exe
+C:\Users\aroots\Documents\web_scraper\bin\Debug\net6.0\web_scraper.deps.json
+C:\Users\aroots\Documents\web_scraper\bin\Debug\net6.0\web_scraper.runtimeconfig.json
+C:\Users\aroots\Documents\web_scraper\bin\Debug\net6.0\web_scraper.dll
+C:\Users\aroots\Documents\web_scraper\bin\Debug\net6.0\web_scraper.pdb
+C:\Users\aroots\Documents\web_scraper\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.csproj.AssemblyReference.cache
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.AssemblyInfoInputs.cache
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.AssemblyInfo.cs
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.csproj.CoreCompileInputs.cache
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.csproj.CopyComplete
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.dll
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\refint\web_scraper.dll
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.pdb
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\web_scraper.genruntimeconfig.cache
+C:\Users\aroots\Documents\web_scraper\obj\Debug\net6.0\ref\web_scraper.dll
